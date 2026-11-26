@@ -2,7 +2,7 @@
 
 仿 RoboMaster 传统视觉检测流程的入门项目。
 
-## 效果
+## 效果图
 ![screenshot](screenshot.png)
 
 ## 技术流程
